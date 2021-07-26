@@ -12,6 +12,6 @@ public class TestDriverCuaCho {
         System.out.println("Fido di tac nghiep xong, fido muon vo nha ne sua");
         barkRecognizer.recognizer("au au");
         System.out.println("Fido di vao nha");
-
+//hahahaha
     }
 }
